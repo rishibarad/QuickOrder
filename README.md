@@ -1,5 +1,5 @@
 # QuickOrder
-An item ordering app. 
+An item ordering iOS app. 
 
 Allows you to pick a location to order from using Google’s Place Picker. 
 
